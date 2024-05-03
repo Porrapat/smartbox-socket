@@ -1,0 +1,7 @@
+{
+    "name": "porrapat/smartbox-socket",
+    "require": {
+        "lcobucci/jwt": "^4.0",
+        "elephantio/elephant.io": "^4.7"
+    }
+}
